@@ -40,6 +40,7 @@ Para facilitar sua navegação segue um exemplo de como esse repositório provav
 <a href = "https://code.visualstudio.com/"> Visual Studio Code </a>  
 <a href = "https://www.mysql.com/"> MySQL </a>  
 <a href = "https://www.mongodb.com"> MongolDB </a>
+<a href = "https://www.google.com/analytics/data-studio"> Looker Studio (Google Data Studio) </a>
 
 #### Atenção! Sobre os Projetos:
 

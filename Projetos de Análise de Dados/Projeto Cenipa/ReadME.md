@@ -44,21 +44,25 @@ Classificação por tipo de Ocorrência:
 
 - De maneira geral a maior parte de dá por incidentes, a segunda maior por acidentes e a menor por incidentes graves.
 
-Local da Ocorrência:  
- - O maior número de ocorridos acontece na região sudeste, principalmente no estado de São Paulo;  
- - O menor número de ocorridos se dá ná região nordeste.
+Local da Ocorrência:
 
-Quantidade de Aeronaves Envolvidas:  
- - A maior parte das ocorrências envolve apenas uma aeronave;  
- - A valor máximo de aeronaves envolvidas são 3;  
- - Considerando apenas as ocorrências que envolveram mais de uma aeronaves a quantidade de ocorridos por Uf muda um pouco e estados que era campeões de ocorrências descem bastantes posições, como é o caso do Mato Grosso.
+- O maior número de ocorridos acontece na região sudeste, principalmente no estado de São Paulo;
+- O menor número de ocorridos se dá ná região nordeste.
 
-Saída de Pista: - Mais de 90% das ocorrências não envolvem saída de pista;  
- - Os ocorridos que envolvem saída de pista(menos de 10% do total) seguem o mesmo padrão de quantidade de acidente pro Uf do total de ocorridos;  
- - Das ocorrências qe houveram saída de pista(menos de 10% do total) mudam o padrão de classificação de tipo de ocorrência, passando a ser a maior parte de acidentes, a segunda maior incidentes graves e a menor de incidentes.
+Quantidade de Aeronaves Envolvidas:
 
-Inconsistências da Coluna Aerodromo:  
- - Não foi visualizado nenhum padrão regional ou temporal qual ao registro inconsistente dos dados de aerodromo, porém for percebido que ele cresce proporcionalmente ao número de ocorrências, logo deve haver uma ligação diretamente proporcional entre o número de registros a serem feitos e o números de erros de nos resgistros.
+- A maior parte das ocorrências envolve apenas uma aeronave;
+- A valor máximo de aeronaves envolvidas são 3;
+- Considerando apenas as ocorrências que envolveram mais de uma aeronaves a quantidade de ocorridos por Uf muda um pouco e estados que era campeões de ocorrências descem bastantes posições, como é o caso do Mato Grosso.
+
+Saída de Pista: - Mais de 90% das ocorrências não envolvem saída de pista;
+
+- Os ocorridos que envolvem saída de pista(menos de 10% do total) seguem o mesmo padrão de quantidade de acidente pro Uf do total de ocorridos;
+- Das ocorrências qe houveram saída de pista(menos de 10% do total) mudam o padrão de classificação de tipo de ocorrência, passando a ser a maior parte de acidentes, a segunda maior incidentes graves e a menor de incidentes.
+
+Inconsistências da Coluna Aerodromo:
+
+- Não foi visualizado nenhum padrão regional ou temporal qual ao registro inconsistente dos dados de aerodromo, porém for percebido que ele cresce proporcionalmente ao número de ocorrências, logo deve haver uma ligação diretamente proporcional entre o número de registros a serem feitos e o números de erros de nos resgistros.
 
 #### Satisfações com o Projeto
 
@@ -70,9 +74,3 @@ Inconsistências da Coluna Aerodromo:
 <a href = "https://code.visualstudio.com/"> Visual Studio Code </a>  
 <a href = "https://cloud.google.com/"> Google Cloud Platform </a>  
 <a href = "https://github.com/sahtcarneiro/DataAnalytics-MartechAcademy"> Github </a>
-
-## Observação
-
-Eu fiz esse projeto em live, streamando na plataforma da Twitch ao vivo, mostrando toda minha progressão e linha de pensamento no decorrer das análises.  
-Caso queira conferir, as gravações ficam salvas na plataforma.
-<a href = "https://www.twitch.tv/sahtcarneirotv"> Twitch </a>

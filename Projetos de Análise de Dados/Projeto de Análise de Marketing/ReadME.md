@@ -1,6 +1,6 @@
 # Análise de Dados usando Pandas e MongoDB
 
-Essa análise de usou como base dados de uma loja, disponibilizado pelo bootcamp, onde continha dados dos clientes e das camoanhas de marketing.
+Essa análise de usou como base dados de uma loja, disponibilizado pelo bootcamp, onde continha dados dos clientes e das campanhas de marketing.
 
 ## Projeto
 
@@ -42,16 +42,18 @@ Nessa parte fiz uso do numpy, pandas e os para exploração, tratamento e análi
 
 #### Resultados das Análises
 
-Perfil de cliente:  
- - Em média 51 anos;  
- - Mais da metade dos gastos com produtos são com vinhos, e somando com o segundo lugar(carne), somam mais de 80% da receita da loja;  
- - Não há ligação direta entre a idade dos cliente e o quanto eles gastam na loja;  
- - A escolaridade está diretamente relacionada com a renda dos clientes, sendo aqueles formados no ensino superior com uma faixa de renda superior do que os que não se formaram;  
- - Há uma ligação direta entre os cliente que tem maior renda com os que gastam mais na loja, sendo os que mais gastam aqueles que tem renda superior a 50mil;  
- - Mais da metade dos clientes tem filhos, sendo eles 1602, e apenas 638 não tem;
+Perfil de cliente:
 
-Campanhas de Marketing:  
- - Sobre as 6 campanhas de marketing apenas a ultima teve uma conversão de mais de 10%, a 3, 4 e 5° tiverem taaxas de conversões muito próximas, em torno de 7%, e a 2° foi a mais baixa, com 1.3% de conversão.
+- Em média 51 anos;
+- Mais da metade dos gastos com produtos são com vinhos, e somando com o segundo lugar(carne), somam mais de 80% da receita da loja;
+- Não há ligação direta entre a idade dos cliente e o quanto eles gastam na loja;
+- A escolaridade está diretamente relacionada com a renda dos clientes, sendo aqueles formados no ensino superior com uma faixa de renda superior do que os que não se formaram;
+- Há uma ligação direta entre os cliente que tem maior renda com os que gastam mais na loja, sendo os que mais gastam aqueles que tem renda superior a 50mil;
+- Mais da metade dos clientes tem filhos, sendo eles 1602, e apenas 638 não tem;
+
+Campanhas de Marketing:
+
+- Sobre as 6 campanhas de marketing apenas a ultima teve uma conversão de mais de 10%, a 3, 4 e 5° tiverem taaxas de conversões muito próximas, em torno de 7%, e a 2° foi a mais baixa, com 1.3% de conversão.
 
 #### Conclusões e Sugestões
 

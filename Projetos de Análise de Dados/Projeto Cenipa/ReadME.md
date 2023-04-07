@@ -1,6 +1,7 @@
 # Análise de Dados do Cenipa
 
-Essa análise de usou como base dados do Cenipa, disponibilizado pelo bootcamp, onde continha dados dos acidentes e incidentes aéreos no Brasil.
+Essa análise de usou como base dados do Cenipa, disponibilizado pelo bootcamp, onde continha dados dos acidentes e incidentes aéreos no Brasil.   
+<a href="https://lookerstudio.google.com/s/t02oR40qX0A"> Dashboard da Análise </a>
 
 ## Projeto
 
